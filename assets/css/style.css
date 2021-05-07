@@ -1,0 +1,8 @@
+.casilla{
+    border:2px solid black;
+    width:400px;
+    height:60px;
+    display:flex;
+    overflow:auto;
+    white-space:pre-wrap;
+}
